@@ -154,4 +154,22 @@ footer
 {
     height: 200px;
     background-color: grey;
+    text-align: center;
+    
+}
+
+footer h1{
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+footer p{
+    font-size: 15px;
+    padding-top: 10px;
+    color: white;
+}
+
+button
+{
+    padding: 5px 20px;
 }
